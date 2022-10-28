@@ -1,11 +1,11 @@
 # Soulbound Tokens
-SBT - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin
+SBTs - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin
 
 ## Overview
 Soulbound tokens are just permanent, non-transferable NFTs, meaning that they can't be given away or taken from your private blockchain wallet.
 
 ## Proof of Humanity 
-A demo for understanding Proof of Humanity and registry to Kleros.
+A SBTs demo for understanding Proof of Humanity and registry to Kleros.
 ## Use-cases
 - Proof of Humanity is a system combining social verification with video submission in order to create a Sybil-proof list of humans.
 - When applying to the list, users need to provide a name, a short description, a photo and a short video which allows others to verify that the user is indeed human.
