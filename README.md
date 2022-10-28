@@ -9,7 +9,7 @@ A demo for understanding Proof of Humanity and registry to Kleros.
 
 
 ## Upcoming uptades
-- Developing SBT contract
+- Improving [SBT](/contracts/SBT.sol) contract
 - Writing proper test 
 - Writing proper deploy script
 - Configuring the hardhat.config for deployment
