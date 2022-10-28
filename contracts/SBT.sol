@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// Following the design of https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763
