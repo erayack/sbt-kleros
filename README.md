@@ -1,9 +1,8 @@
 # Soulbound Tokens
-SBTs - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin
+SBTs - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin, E. Glen Weyl (Microsoft), Puja Ohlhaver (Flashbots), 
 
 ## Overview
 Soulbound tokens are just permanent, non-transferable NFTs, meaning that they can't be given away or taken from your private blockchain wallet.
-
 ## Proof of Humanity 
 A SBTs demo for understanding Proof of Humanity and registry to Kleros.
 ## Use-cases
@@ -17,4 +16,3 @@ A SBTs demo for understanding Proof of Humanity and registry to Kleros.
 - Writing proper deploy script
 - Configuring the hardhat.config for deployment
 - IPFS instructions
-- Implementing a real world use-case
