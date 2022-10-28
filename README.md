@@ -1,5 +1,5 @@
 # Soulbound Tokens
-SBTs - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin, E. Glen Weyl (Microsoft), Puja Ohlhaver (Flashbots), 
+SBTs - SoulBound Tokens: [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) by Vitalik Buterin, E. Glen Weyl (Microsoft), Puja Ohlhaver (Flashbots)
 
 ## Overview
 Soulbound tokens are just permanent, non-transferable NFTs, meaning that they can't be given away or taken from your private blockchain wallet.
